@@ -15,4 +15,4 @@ node {
 			sh 'ng test --progress false --watch false'
 		}
 	}	
-
+}
